@@ -10,4 +10,4 @@ const schema=mongoose.Schema(
     }
 )
 let glassmodel=mongoose.model("glasses",schema)
-module.exports={ glassmodel }
+module.exports={glassmodel}
