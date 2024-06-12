@@ -4,7 +4,7 @@ const schema=mongoose.Schema(
        "title":{type:String,required:true},
         "shape":{type:String,required:true},
         "colour":{type:String,required:true},
-        "frame":{type:String,required:true},
+        "price":{type:String,required:true},
         "image":{type:String,require:true}
  
     }
